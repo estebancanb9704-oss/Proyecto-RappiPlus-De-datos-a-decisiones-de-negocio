@@ -63,4 +63,6 @@ El proyecto integra información de múltiples fuentes relacionales y transaccio
 2. **Estrategia de Retención:** Aprovechar la base estables de clientes recurrentes al día 28 mediante beneficios de fidelización para mantener el margen operativo del servicio.
 3. **Toma de Decisiones Informada:** Frenar el despliegue masivo de la nueva variante de UI evaluada en el experimento hasta rediseñar iterativamente la experiencia de pago con base en los puntos de fricción detectados en el funnel.
 
+## Link para presentacion en PowerBi 
+- https://drive.google.com/file/d/1p2KhEIQEgBmr4kv_VnhHTAOT-ueKTSRw/view?usp=drive_link
 
